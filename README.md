@@ -1,5 +1,5 @@
 # my_second_dot_net_project
-Hello World 👋  
+Hello World  
 I’m Aditya Sasodey.
 
 This project is a C# console application created to practice core .NET fundamentals, including:
